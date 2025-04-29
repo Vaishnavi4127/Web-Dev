@@ -1,1 +1,0 @@
-echo "Version V2.0.0"
